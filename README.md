@@ -59,8 +59,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact 📧
 For queries or support, contact:
-
-Gobi
 Email: [gobibalu@gmail.com]
 GitHub: [github.com/Gobi0301]
 
